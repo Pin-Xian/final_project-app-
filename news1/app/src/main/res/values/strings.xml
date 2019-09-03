@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">news1</string>
+    <string name="tab_text_1">娛樂</string>
+    <string name="tab_text_2">金融</string>
+    <string name="tab_text_3">國際</string>
+    <string name="tab_text_4">政治</string>
+    <string name="tab_text_5">社會</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
