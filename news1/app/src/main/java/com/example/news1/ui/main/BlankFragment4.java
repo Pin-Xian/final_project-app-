@@ -32,4 +32,6 @@ public class BlankFragment4 extends Fragment {
         return inflater.inflate(R.layout.fragment_main4, container, false);
     }
 
+
+
 }

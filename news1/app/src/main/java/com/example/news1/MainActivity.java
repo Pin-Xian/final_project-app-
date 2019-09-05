@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     class SimpleFragmentPageAdapter extends FragmentPagerAdapter {
-        String title[] = {"tab1","tab2","tab3","tab4","tab5"};
+        String title[] = {"娛樂","金融","國際","政治","社會"};
         Context context;
         ArrayList<Fragment> fragmentArrayList = new ArrayList<Fragment>();
         public SimpleFragmentPageAdapter(FragmentManager fm) {
